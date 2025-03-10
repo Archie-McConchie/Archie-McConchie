@@ -1,11 +1,10 @@
 #Archie
 
 IT
-Biking
 Rowing
 Rugby
 Gaming
-Woodworks
+Carpentry
 
 
 VERY LOUD SPEAKERS
